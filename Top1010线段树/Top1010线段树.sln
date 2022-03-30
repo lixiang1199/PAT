@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32317.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Top1010线段树", "Top1010线段树.vcxproj", "{E00845DD-9DCB-4BDA-93B3-76B9AEDB556D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E00845DD-9DCB-4BDA-93B3-76B9AEDB556D}.Debug|x64.ActiveCfg = Debug|x64
+		{E00845DD-9DCB-4BDA-93B3-76B9AEDB556D}.Debug|x64.Build.0 = Debug|x64
+		{E00845DD-9DCB-4BDA-93B3-76B9AEDB556D}.Debug|x86.ActiveCfg = Debug|Win32
+		{E00845DD-9DCB-4BDA-93B3-76B9AEDB556D}.Debug|x86.Build.0 = Debug|Win32
+		{E00845DD-9DCB-4BDA-93B3-76B9AEDB556D}.Release|x64.ActiveCfg = Release|x64
+		{E00845DD-9DCB-4BDA-93B3-76B9AEDB556D}.Release|x64.Build.0 = Release|x64
+		{E00845DD-9DCB-4BDA-93B3-76B9AEDB556D}.Release|x86.ActiveCfg = Release|Win32
+		{E00845DD-9DCB-4BDA-93B3-76B9AEDB556D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8766BBFA-006E-4E37-B90D-3CCD4006D065}
+	EndGlobalSection
+EndGlobal
